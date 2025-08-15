@@ -1,0 +1,6 @@
+Customer_ID,Name,Address,Start_Date,End_Date,Is_Current
+101,John Doe,New York,01-01-2022,,Y
+102,Jane Smith,Chicago,15-03-2023,,Y
+103,Michael Lee,San Francisco,20-07-2021,,Y
+104,Emily Davis,Boston,10-01-2024,,Y
+105,David Wilson,Seattle,05-11-2023,,Y
