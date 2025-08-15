@@ -36,6 +36,7 @@ pip install pyspark
 ```
 
 ---
+**Note:**  You can run the provided notebooks on a managed Spark cluster like **Google Cloud Dataproc**, or set up your own Spark environment by following the official guide: 🔗 https://spark.apache.org/docs/latest/api/python/getting_started/install.html
 
 ## 🚀 How to Run
 
